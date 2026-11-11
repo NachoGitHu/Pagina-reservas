@@ -16,3 +16,9 @@ el archivo de css esta en la capreta static.
 si se borrara una linea de codigo dentro de los archivos de estilo, la pagina tendria errores en lo que es frontend para el usuario.
 Aparecen todas las tablas en la pagina, esta todo subido a supabase.
 Vienen de la base
+
+Este es el perfil de administrador para ver los datos de las reservas y porcentajes.
+admin@cafeteria.com
+CambiarEstaClave123
+
+El perfil de usuario se puede crear en el momento (no hace falta poner ningun email o contraseña real).
